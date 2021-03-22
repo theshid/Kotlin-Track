@@ -14,11 +14,12 @@
     </projectState>
   </component>
   <component name="ProjectId" id="1ptSbLfoOWowxdl9gcQm6uzWBdD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hamming" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -71,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616000963493</updated>
       <workItem from="1616000974917" duration="2158000" />
-      <workItem from="1616076885202" duration="768000" />
+      <workItem from="1616076885202" duration="1565000" />
     </task>
     <servers />
   </component>
