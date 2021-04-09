@@ -17,11 +17,7 @@ object ScrabbleScore {
     }
 
     fun scoreWord(word: String): Int {
-        var result = 0
-        val test: Map<Char, List<Char>> = word.toLowerCase().filter(Char::isLetter).groupBy { it }
-        for (letters in test) {
-            result += letters.value.size * scoreLetter(letters.key)
-        }
+        val result = word.toLowerCase().map { scoreLetter(it) }.sum()
         return result
     }
 }

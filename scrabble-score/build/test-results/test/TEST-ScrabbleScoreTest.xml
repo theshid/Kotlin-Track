@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ScrabbleScoreTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-03-27T00:58:14" hostname="ARI-PC" time="0.025">
+<testsuite name="ScrabbleScoreTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-04-09T17:13:04" hostname="ARI-PC" time="0.095">
   <properties/>
-  <testcase name="test[0: scoreWord(a)=1]" classname="ScrabbleScoreTest" time="0.021"/>
+  <testcase name="test[0: scoreWord(a)=1]" classname="ScrabbleScoreTest" time="0.09"/>
   <testcase name="test[1: scoreWord(A)=1]" classname="ScrabbleScoreTest" time="0.0"/>
   <testcase name="test[2: scoreWord(f)=4]" classname="ScrabbleScoreTest" time="0.0"/>
   <testcase name="test[3: scoreWord(at)=2]" classname="ScrabbleScoreTest" time="0.0"/>
@@ -10,8 +10,8 @@
   <testcase name="test[6: scoreWord(quirky)=22]" classname="ScrabbleScoreTest" time="0.0"/>
   <testcase name="test[7: scoreWord(OxyphenButazone)=41]" classname="ScrabbleScoreTest" time="0.0"/>
   <testcase name="test[8: scoreWord(pinata)=8]" classname="ScrabbleScoreTest" time="0.0"/>
-  <testcase name="test[9: scoreWord()=0]" classname="ScrabbleScoreTest" time="0.0"/>
-  <testcase name="test[10: scoreWord(abcdefghijklmnopqrstuvwxyz)=87]" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="test[9: scoreWord()=0]" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="test[10: scoreWord(abcdefghijklmnopqrstuvwxyz)=87]" classname="ScrabbleScoreTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
